@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-컨퍼런스와 모임을를 준비하는 모든이들을 위한 안내서
+컨퍼런스와 모임을 준비하는 히치하이커를 위한 안내서
 ======================================
 
 대한민국에서 다양한 규모의 컨퍼런스/모임을 준비하는 이들의 삽질을 줄여주기위한 안내서 입니다
